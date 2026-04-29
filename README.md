@@ -1,2 +1,2 @@
-# PR Bot Test
-This repo is for testing the AI PR reviewer bot.
+## Testing the bot
+Hello world this is a test
